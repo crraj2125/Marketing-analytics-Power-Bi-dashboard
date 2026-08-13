@@ -77,6 +77,18 @@ Power BI
 Interactive Dashboard
    ↓
 Business Insights
+## 🛠️ Tools & Technologies
+
+- Python
+- Pandas – data cleaning, filtering and transformation
+- NumPy – numerical data processing
+- Matplotlib – data analysis and visualization
+- Power BI – interactive dashboard creation
+- Jupyter Notebook – data analysis
+
+## 🔄 Project Workflow
+
+Raw Data → Data Cleaning → Data Filtering → Data Transformation → Data Processing Pipeline → Analysis → Power BI Dashboard
 
 
 
