@@ -89,6 +89,24 @@ Business Insights
 ## 🔄 Project Workflow
 
 Raw Data → Data Cleaning → Data Filtering → Data Transformation → Data Processing Pipeline → Analysis → Power BI Dashboard
+## 🎯 Project Objective
+
+The main objective of this project is to evaluate marketing campaign performance and identify key factors affecting conversions, leads, ROI and customer acquisition.
+
+## 💡 Key Insights
+
+- Analyzed marketing campaign performance using customer and campaign data.
+- Calculated key metrics such as ROI, CPA, conversions and total leads.
+- Identified the strongest lead sources based on campaign performance.
+- Compared marketing spend and purchases across different lead sources.
+- Built an interactive Power BI dashboard to present the findings visually.
+## 📊 Dashboard Highlights
+
+- ROI: 597.33K
+- CPA: 1.15K
+- Total Conversions: 667
+- Total Leads: 28K
+
 
 
 
