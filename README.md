@@ -78,6 +78,8 @@ Interactive Dashboard
 Business Insights
 ## Power BI Dashboard
 
-<img src="./1.png" alt="Power BI Dashboard">
+## Power BI Dashboard
+
+![Power BI Dashboard](1.png
 
 
