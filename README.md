@@ -3,7 +3,7 @@
 > End-to-end marketing analytics project using Python, Pandas and Power BI.
 
 ## 📊 Project Overview
-![Power BI Dashboard](1.png)
+![Power BI Dashboard](marketing-dashboard.png)
 
 This project analyzes customer and marketing campaign data to evaluate campaign effectiveness and generate business insights.
 
