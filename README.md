@@ -36,6 +36,18 @@ The analysis focuses on:
 6. Understanding customer spending
 7. Comparing marketing performance
 8. Building an interactive Power BI dashboard
+### Store Purchases
+![Store Purchases](NumStorePurchases.png)
+Store purchases were the highest among the purchase channels, indicating that customers showed a strong preference for purchasing through physical stores.
+### Web Purchases
+
+![Web Purchases](NumWebPurchases.png)
+
+Web purchases were the second highest among the different purchase channels, showing that customers preferred the online shopping channel. This analysis helps identify customer purchasing behavior and the importance of the web channel.
+### Catalog Purchases
+![Catalog Purchases](NumCatalogPurchases.png)
+
+Catalog purchases were the lowest among the purchase channels, indicating relatively lower customer engagement through the catalog channel compared with store and web purchases.
 
 ---
 
