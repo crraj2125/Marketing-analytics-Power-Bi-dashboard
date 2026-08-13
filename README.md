@@ -76,3 +76,6 @@ Power BI
 Interactive Dashboard
    ↓
 Business Insights
+## Power BI Dashboard
+
+![Power BI Dashboard](1.png)
